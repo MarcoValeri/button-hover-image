@@ -1,0 +1,23 @@
+{
+  "name": "buttonhoverimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass scss/main.scss css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoValeri/button-hover-image.git"
+  },
+  "author": "Marco Valeri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoValeri/button-hover-image/issues"
+  },
+  "homepage": "https://github.com/MarcoValeri/button-hover-image#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
